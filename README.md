@@ -4,7 +4,7 @@ Proxy handler plugin for hapi.js.
 
 [![NPM](https://nodei.co/npm/h2o2.png?downloads=true&stars=true)](https://nodei.co/npm/h2o2/)
 
-[![Build Status](https://secure.travis-ci.org/hapijs/h2o2.png)](http://travis-ci.org/hapijs/h2o2) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--h2o2.svg)](https://www.staging.guardrails.io)
+[![Build Status](https://secure.travis-ci.org/hapijs/h2o2.png)](http://travis-ci.org/hapijs/h2o2) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/hapijs--h2o2.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/hapijs--h2o2.svg)](https://www.guardrails.io)
 
 Lead Maintainer - [Sanjay Pandit](https://github.com/spanditcaa)
 
